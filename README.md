@@ -9,13 +9,14 @@
   <a target="_blank" href="https://www.instagram.com/forestnekko/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<div align="center">
+<div align="center" margin="10px 0">
   <a target="_blank" href="https://github.com/Nekoguard">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nekoguard&layout=compact&show_icons=true&locale=en&theme=dark"     alt="Nekoguard" />
   </a>
 </div>
 
 <div align="center">
+  <h3 align="center">Languages and tool:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40px" height="40px">
