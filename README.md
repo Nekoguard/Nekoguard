@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <h3 align="center">Languages and tools:</h3>
+  <h3 align="center">All languages and tools:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40px" height="40px">
