@@ -2,21 +2,21 @@
 
 <h3 align="center">Contact me:</h3>
 
-<div align="center">
+<p align="center">
   <a target="_blank" href="https://nekoguard.github.io/rsschool-cv/"><img alt="CV" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/alnekog/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="mailto:nekoguard@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a target="_blank" href="https://www.instagram.com/forestnekko/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+</p>
 
-<div align="center" margin="10px 0">
+<p align="center" margin="10px 0">
   <a target="_blank" href="https://github.com/Nekoguard">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nekoguard&layout=compact&show_icons=true&locale=en&theme=dark"     alt="Nekoguard" />
   </a>
-</div>
+</p>
 
 <div align="center">
-  <h3 align="center">Languages and tool:</h3>
+  <h3 align="center">Languages and tools:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40px" height="40px">
