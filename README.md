@@ -11,7 +11,7 @@
 
 <p align="center" margin="10px 0">
   <a target="_blank" href="https://github.com/alexandraliutsko">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nekoguard&layout=compact&show_icons=true&locale=en&theme=dark"     alt="Nekoguard" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandraliutsko&layout=compact&show_icons=true&locale=en&theme=dark" alt="Alexandra" />
   </a>
 </p>
 
