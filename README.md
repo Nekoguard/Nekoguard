@@ -3,10 +3,8 @@
 <h3 align="center">Contact me:</h3>
 
 <p align="center">
-  <a target="_blank" href="https://alexandraliutsko.github.io/CV/"><img alt="CV" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/alnekog/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="mailto:nekoguard@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.instagram.com/forestnekko/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center" margin="10px 0">
